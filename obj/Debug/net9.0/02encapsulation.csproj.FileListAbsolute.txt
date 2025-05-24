@@ -1,0 +1,14 @@
+C:\POO\02encapsulation\obj\Debug\net9.0\02encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\POO\02encapsulation\obj\Debug\net9.0\02encapsulation.AssemblyInfoInputs.cache
+C:\POO\02encapsulation\obj\Debug\net9.0\02encapsulation.AssemblyInfo.cs
+C:\POO\02encapsulation\obj\Debug\net9.0\02encapsulation.csproj.CoreCompileInputs.cache
+C:\POO\02encapsulation\bin\Debug\net9.0\02encapsulation.exe
+C:\POO\02encapsulation\bin\Debug\net9.0\02encapsulation.deps.json
+C:\POO\02encapsulation\bin\Debug\net9.0\02encapsulation.runtimeconfig.json
+C:\POO\02encapsulation\bin\Debug\net9.0\02encapsulation.dll
+C:\POO\02encapsulation\bin\Debug\net9.0\02encapsulation.pdb
+C:\POO\02encapsulation\obj\Debug\net9.0\02encapsulation.dll
+C:\POO\02encapsulation\obj\Debug\net9.0\refint\02encapsulation.dll
+C:\POO\02encapsulation\obj\Debug\net9.0\02encapsulation.pdb
+C:\POO\02encapsulation\obj\Debug\net9.0\02encapsulation.genruntimeconfig.cache
+C:\POO\02encapsulation\obj\Debug\net9.0\ref\02encapsulation.dll
